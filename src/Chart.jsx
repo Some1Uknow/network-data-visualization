@@ -137,7 +137,7 @@ const Charts = () => {
           </div>
         )}
         {selectedChart === "Distribution of Severities" && (
-          <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
+          <div className="bg-gray-800 p-6 rounded-lg shadow-lg w-3/5">
             <h2 className="text-2xl font-semibold mb-4 text-white">
               Distribution of Severities
             </h2>
